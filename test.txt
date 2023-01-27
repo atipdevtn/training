@@ -1,4 +1,2 @@
-<<<<<<< HEAD
 This is test number 2
 Test new commit
->>>>>>> 4b0d3069001709130769f5ba452b6319747d1863
